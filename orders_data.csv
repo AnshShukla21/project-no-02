@@ -1,0 +1,31 @@
+﻿Order ID,Date,Product Name,Category,Price,Quantity,Total,City,Payment Mode
+ORD1001,01-07-26,Wireless Mouse,Electronics,499,2,998,Surat,UPI
+ORD1002,01-07-26,Cotton T-Shirt,Apparel,399,3,1197,Ahmedabad,Cash on Delivery
+ORD1003,02-07-26,Bluetooth Speaker,Electronics,1299,1,1299,Mumbai,Credit Card
+ORD1004,02-07-26,Yoga Mat,Fitness,699,1,699,Pune,UPI
+ORD1005,03-07-26,Study Table Lamp,Home & Living,899,1,899,Surat,Debit Card
+ORD1006,03-07-26,Running Shoes,Footwear,1999,1,1999,Delhi,UPI
+ORD1007,04-07-26,Backpack,Accessories,1099,1,1099,Bangalore,Cash on Delivery
+ORD1008,04-07-26,Notebook Set,Stationery,249,5,1245,Surat,UPI
+ORD1009,05-07-26,Smartwatch,Electronics,2499,1,2499,Hyderabad,Credit Card
+ORD1010,05-07-26,Kitchen Knife Set,Home & Living,799,1,799,Chennai,UPI
+ORD1011,06-07-26,Denim Jeans,Apparel,1199,2,2398,Ahmedabad,Debit Card
+ORD1012,06-07-26,Wireless Earbuds,Electronics,1799,1,1799,Surat,UPI
+ORD1013,07-07-26,Table Fan,Home Appliances,1299,1,1299,Pune,Cash on Delivery
+ORD1014,07-07-26,Formal Shirt,Apparel,899,2,1798,Mumbai,UPI
+ORD1015,08-07-26,Water Bottle,Fitness,299,3,897,Surat,UPI
+ORD1016,08-07-26,Laptop Stand,Electronics,999,1,999,Delhi,Credit Card
+ORD1017,09-07-26,Sunglasses,Accessories,599,1,599,Bangalore,Debit Card
+ORD1018,09-07-26,Office Chair,Home & Living,4499,1,4499,Surat,UPI
+ORD1019,10-07-26,Face Wash Combo,Personal Care,349,2,698,Chennai,Cash on Delivery
+ORD1020,10-07-26,Printer Paper,Stationery,449,2,898,Ahmedabad,UPI
+ORD1021,11-07-26,Gaming Keyboard,Electronics,2199,1,2199,Surat,Credit Card
+ORD1022,11-07-26,Sports Cap,Apparel,299,2,598,Pune,UPI
+ORD1023,12-07-26,Blender,Home Appliances,1899,1,1899,Mumbai,Debit Card
+ORD1024,12-07-26,Leather Wallet,Accessories,799,1,799,Surat,UPI
+ORD1025,13-07-26,Desk Organizer,Stationery,349,1,349,Hyderabad,Cash on Delivery
+ORD1026,13-07-26,Track Pants,Apparel,699,2,1398,Delhi,UPI
+ORD1027,14-07-26,Power Bank,Electronics,1499,1,1499,Surat,Credit Card
+ORD1028,14-07-26,Dinner Set,Home & Living,1599,1,1599,Chennai,UPI
+ORD1029,15-07-26,Hand Sanitizer Pack,Personal Care,199,4,796,Bangalore,Cash on Delivery
+ORD1030,15-07-26,USB Cable,Electronics,199,3,597,Surat,UPI
